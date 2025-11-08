@@ -7,4 +7,4 @@ hi im currently a undergrad in Privacy & IT-Security, while being in a working s
 **Socials**
 - Website: https://preach.es (work in progress)
 - X (don't really tweet): https://x.com/v08
-- TryHackMe: https://tryhackme.com/p/0xflo (im more of a HTB enjoyer) 
+- TryHackMe: https://tryhackme.com/p/preach (im more of a HTB enjoyer) 
