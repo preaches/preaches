@@ -6,4 +6,4 @@ hi im currently a undergrad in Privacy & IT-Security, while being in a working s
 
 **Socials**
 - Website: (work in progress) [preach.es](https://preach.es)
-- TryHackMe: [trhackme.com/p/preach](https://tryhackme.com/p/preach)
+- TryHackMe: [tryhackme.com/p/preach](https://tryhackme.com/p/preach)
